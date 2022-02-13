@@ -2,9 +2,9 @@
 
 Welcome to my GitHub!
 
-I'm Elena and although I have studied to be a teacher, I decided to make a change for the better in my life, and I'm studied in ADALAB. I want to be a Full Stack Developer.
+I'm Elena and although I have studied to be a teacher, I decided to make a change for the better in my life, and I'm studied in ADALAB. I want to be a Full Stack Developer :woman_technologist:
 
-- 🌱 I’ve learn: Full Stack Developer in ADALAB (https://adalab.es/).
+-  	:computer: I’ve learn: Full Stack Developer in ADALAB (https://adalab.es/).
 
 
 - 💬 Ask me about-> 
@@ -16,12 +16,14 @@ I'm Elena and although I have studied to be a teacher, I decided to make a chang
 <img src='https://vabadus.es/images/cache/imagen_nodo/images/articulos/5c9deedea0c7e844300455.png' width='100' align='center'> <img src='https://www.cognodata.com/wp-content/uploads/2019/04/Screenshot-2019-07-18-at-13.37.37-min.png' width= '100' align='center'>
 
 
- - 📫 You can find me :
+- 📫 You can find me :
  
-      <a href='https://www.linkedin.com/in/elena-fern%C3%A1ndez-sandoval-48425b145/'><img src='https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2159024400&v=beta&t=dpaLynvZ2NeUb2hNZNXCWDXJ1R-2LkkQ-rMrfhWvNvs' width='47' align='center'></a> 
+    <a href='https://www.linkedin.com/in/elena-fern%C3%A1ndez-sandoval-48425b145/'><img src='https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2159024400&v=beta&t=dpaLynvZ2NeUb2hNZNXCWDXJ1R-2LkkQ-rMrfhWvNvs' width='47' align='center'></a> 
          <a href='https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=640978511239659758'><img src='https://media.infojobs.net/appgrade/icons/ico-ij-android.png' width='52' align='center'></a>
 
 
+
+- :outbox_tray: If you have any questions, contact me with LinkedIn :grinning:
 <!--
 **ElenaFernandez/ElenaFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
